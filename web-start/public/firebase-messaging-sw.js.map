@@ -1,0 +1,1 @@
+{"version":3,"file":"firebase-messaging-sw.js","mappings":";;;;;AAAA,uD","sources":["webpack://friendlychat/./src/firebase-messaging-sw.js"],"sourcesContent":["// TODO: Set up Firebase Cloud Messaging service worker"],"names":[],"sourceRoot":""}
